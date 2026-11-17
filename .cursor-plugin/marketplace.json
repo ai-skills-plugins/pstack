@@ -1,0 +1,13 @@
+{
+  "name": "ai-skills-plugins-pstack",
+  "owner": {
+    "name": "ai-skills-plugins"
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": ".",
+      "description": "pstack workflows — rigorous agent workflows you can parallelize with confidence"
+    }
+  ]
+}
